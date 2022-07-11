@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeremy5909
 - 👀 I’m interested in learning how to be a developoer
-- 🌱 I’m currently learning python, c#
+- 🌱 I’m currently learning python, c#, c, c++, html, css
 - 💞️ I’m looking to collaborate on any half simple projects
 - 📫 How to reach me: jeremyherczeg@gmail.com
 
